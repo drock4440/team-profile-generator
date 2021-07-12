@@ -13,6 +13,8 @@
 - [Questions](#questions)
 ## Installation
 💾 Clone the project, run the npm packages needed, type node app.js  and then follow the instructions on the command line. 
+<br />
+
 ![Here](commandline.jpeg)
 ## Usage
 💻 Creating a professional looking portfolio for your workplace. Give your employees their very own "digital business card".
