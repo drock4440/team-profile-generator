@@ -135,7 +135,7 @@ function addHtml(member) {
             </div>
         </div>`;
         } else {
-            const officePhone = member.grabOfficeNumber();
+            const officePhone = member.grabNumber();
             data = `<div class="col-6">
             <div class="card mx-auto mb-3" style="width: 18rem">
             <h5 class="card-header">${name}<br /><br />Manager</h5>
