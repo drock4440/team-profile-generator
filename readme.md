@@ -13,6 +13,7 @@
 - [Questions](#questions)
 ## Installation
 💾 Clone the project, run the npm packages needed, type node app.js  and then follow the instructions on the command line. 
+![Here](commandline.jpeg)
 ## Usage
 💻 Creating a professional looking portfolio for your workplace. Give your employees their very own "digital business card".
 ## License
@@ -29,5 +30,7 @@ This application is covered by the Open license.
 :octocat: Find me on GitHub: [Drock4440](https://github.com/Drock4440)<br />
 <br />
 ✉️ Email me with any questions: Daltonrothrock8@gmail.com<br /><br />
+
+Final product looks like so: ![Here](product.jpeg)
   
   Check out how it works here: [![Link] (https://www.youtube.com/watch?v=ENED0Ge6fyE)]
